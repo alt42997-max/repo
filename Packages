@@ -1,0 +1,98 @@
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, technology.goated.appsync, technology.goated.appsyncunified, vaginalfisting.appsynctool, science.xnu.substitute, akemi.appsink, akemi.appsyncunifed, akemi.appsyncunifed2, akemi.appsyncunifedpatched, appsyncpatched, appsyncrootless, weaponized.autism.technology.appsyncunified, ellekit (< 1.1)
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 18.2)
+Depiction: https://cydia.akemi.ai/?page/ai.akemi.appsyncunified
+Maintainer: =?utf-8?b?S2FyZW4v44GC44GR44G/IDxrYXJlbkBha2VtaS5haT4=?=
+Homepage: https://cydia.akemi.ai/
+Provides: appsync, net.angelxwind.appsyncunified
+Replaces: us.hackulo.appsync50, net.angelxwind.appsyncunified
+Package: ai.akemi.appsyncunified
+Name: AppSync Unified
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Section: Tweaks
+Author: =?utf-8?b?S2FyZW4v44GC44GR44G/LCBMaW51cyBZYW5nIDxrYXJlbkBha2VtaS5haT4=?=
+Architecture: iphoneos-arm
+Version: 116.0
+Installed-Size: 636
+Filename: debians\ai.akemi.appsyncunified_116.0_iphoneos-arm.akemi-git-235aca6cddfbdc9fa87fcb5b2aec2df37ed6d65a.deb
+Size: 51658
+md5: 536009a11dad57e48a5563224eaffaff
+sha1: e0fa412cb3c26718887edd834804c88909297079
+sha256: 0036f28fcbdb165d4f58968a237ca9fe7b6ed33fea25b9a5eb1fc141f6bf5a09
+Depiction: alt42997-max.github.io/repo/depictions/web/?p=ai.akemi.appsyncunified
+SileoDepiction: alt42997-max.github.io/repo/depictions/native/ai.akemi.appsyncunified/depiction.json
+
+Package: com.exile90.icleanerpro
+Name: iCleaner Pro
+Description: The first real iOS system cleanup and management utility
+Author: Ivano Bilenchi <support@ib-soft.net>
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Version: 7.10.0
+Architecture: iphoneos-arm
+Homepage: http://ib-soft.net/icleaner
+Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
+Section: Utilities
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Icon: file:///Applications/iCleaner.app/Icon.png
+Filename: debians\com.exile90.icleanerpro_7.10.0_iphoneos-arm.deb
+Size: 2450460
+md5: 830ebd462d173a9211f5f7c41ce64d1a
+sha1: 437f5c5097cdab433698b11dab81c3cb8fc82917
+sha256: 99c90c0f4629d47af1c52772f374eb74828f7cdafc469fcc42af0eea6d417c66
+Depiction: alt42997-max.github.io/repo/depictions/web/?p=com.exile90.icleanerpro
+SileoDepiction: alt42997-max.github.io/repo/depictions/native/com.exile90.icleanerpro/depiction.json
+
+Package: com.pw5a29.speedintensifier
+Name: Speed Intensifier
+Version: 10.1-1
+Architecture: iphoneos-arm
+Author: pw5a29 <pw5a29@gmail.com>
+Depends: mobilesubstrate, preferenceloader, applist
+Depiction: http://pw5a29.github.io/Depic/speedintensifier/index.html
+Description: Speeds up iOS Animations
+Section: Tweaks
+Filename: debians\si1011.deb
+Size: 60398
+md5: 023b5ae498463d4a730de3a3b1ad8cbe
+sha1: bd891636376482f206872df22c2bd535f0a8f1e9
+sha256: 417ae89a102942e870afef38e6d2b095b2e9f89ac69e029a040af89cf3bcd84d
+Depiction: alt42997-max.github.io/repo/depictions/web/?p=com.pw5a29.speedintensifier
+SileoDepiction: alt42997-max.github.io/repo/depictions/native/com.pw5a29.speedintensifier/depiction.json
+
+Package: com.vlesscore.app
+Name: vless-core
+Version: 0.6.3-1
+Architecture: iphoneos-arm
+Description: Full-device VLESS routing app
+Maintainer: notfence
+Author: notfence
+Section: Networking
+Priority: optional
+Depends: firmware (>= 5.0)
+Filename: debians\com.vlesscore.app_iphoneos-arm.deb
+Size: 11037780
+md5: fffb0b8c6d85bf5d1c110d1c8c922380
+sha1: 88dc2731defeee7a5f736e8ee3dd6463198cd60b
+sha256: a858b046bd0986d74741813291db55953ac123162e063664cf428396735c89d3
+Depiction: alt42997-max.github.io/repo/depictions/web/?p=com.vlesscore.app
+SileoDepiction: alt42997-max.github.io/repo/depictions/native/com.vlesscore.app/depiction.json
+
+Package: emt.paisseon.icleaner
+Name: iCleaner Pro Crack
+Architecture: iphoneos-arm
+Description: iCleaner Pro for free, nanodesu
+Maintainer: Paisseon
+Author: Paisseon
+Section: Tweaks
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Version: 0.0.2
+Installed-Size: 124
+Filename: debians\emt.paisseon.icleaner_0.0.2_iphoneos-arm.deb
+Size: 17290
+md5: 471dbd936bcebf7a705e1dc134c0fea1
+sha1: 51fa5dd0cd6998ba697bed0729511997246a7b08
+sha256: 4e62a465830652b5133b90840074d1cf3c1b882174050a9d26babcbf79ba06e5
+Depiction: alt42997-max.github.io/repo/depictions/web/?p=emt.paisseon.icleaner
+SileoDepiction: alt42997-max.github.io/repo/depictions/native/emt.paisseon.icleaner/depiction.json
+

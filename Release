@@ -1,0 +1,17 @@
+Origin: svqez
+Label: svqez
+Suite: stable
+Version: 1.0.0
+Codename: tangelo
+Architectures: iphoneos-arm
+Components: main
+Description: 
+md5: f7e4716ef1d8603e5666d8b1d5cea631 3090 Packages
+ 9737e640f6a5d9da85846152fb2b0cad 1241 Packages.gz
+md5:  07276e55ecc864b78864b56a2cf51d96 4995 Packages
+ 8d710fc00e09f42cb1bdbae47ba0583d 1918 Packages.gz
+sha1:  829dbe8ad969ef79b16a943283cfd5424e642474 4995 Packages
+ f98d5b8f447e580d5e7a4fcb5b442b4ecd2a238c 1918 Packages.gz
+sha256:  c04ce7a616402fc57c63519c834a9bc2e13f682a6e8d8f43f46b5b65182c384c 4995 Packages
+ bfef895b206bc8e9881ba4749d815694a6b849f89f35c8d426ca76c940f0496c 1918 Packages.gz
+
